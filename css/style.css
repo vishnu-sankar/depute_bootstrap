@@ -1,0 +1,37 @@
+.bg-light{
+    font-family: 'Raleway', sans-serif;
+
+}
+.custom-font h3{
+    font-size: 40px;
+}
+.home-slider h2{
+    font-size: 48px;
+    line-height: auto;
+}
+.home-slider.btn-outline-light{
+font-size: 28px;
+line-height: normal;
+}
+.container {
+    background-image: url("../images/bg11.jpg")no-repeat;
+    background-size: cover;
+}
+h4.subheading{
+    margin-top: 7rem;
+
+}
+.rounded-circle{
+    margin-top: 6rem;
+
+}
+.navbar-brand{
+    margin-left: 5rem;
+}
+@media (max-width:767px){
+    .container{
+        padding: 20px 30px;
+    
+    }
+
+}
